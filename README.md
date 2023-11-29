@@ -4,5 +4,5 @@
 
 ![2](https://github.com/Aleksandr62aa/Automatic-Number_Plate_Recognition/blob/main/car_Haarcascade_easyOCR.jpg)
 
-![3]()
+![3](https://github.com/Aleksandr62aa/Automatic-Number_Plate_Recognition/blob/main/car_Haarcascade_TesseractOCR.jpg)
 
